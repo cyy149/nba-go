@@ -24,6 +24,10 @@ In order to use nba-go, make sure that you have [Node](https://nodejs.org/) vers
 ```
 $ npm install -g nba-go
 ```
+or
+```
+$ sudo install -g nba-go
+```
 
 Or in a Docker Container:
 
